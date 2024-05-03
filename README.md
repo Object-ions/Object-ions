@@ -1,4 +1,10 @@
 ### Hi there 👋
+📍 PDX is where I live
+💻 Full stack developer (Reat / C#) is what I do
+🍪 @scrumptiousbaby_pdx (IG) is my therapy
+👾 moses-a.com
+👯 I’m always looking to collaborate
+📫 moshikoatia@gmail.com hit me up!
 
 <!--
 **Object-ions/Object-ions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
