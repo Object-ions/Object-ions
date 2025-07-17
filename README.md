@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📍 PDX is where I live
+- 📍 PHX is where I live
 - 💻 Full stack developer (React / C#) is what I do
 - 🍪 [@scrumptiousbaby_pdx](https://www.instagram.com/scrumptiousbaby_pdx)
 - 👾 [moses-a.com](https://moses-a.com)
