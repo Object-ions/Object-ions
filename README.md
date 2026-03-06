@@ -1,22 +1,6 @@
 ### Hi there 👋
-- 📍 PHX is where I live
-- 💻 Full stack developer (React / C#) is what I do
-- 🍪 [@scrumptiousbaby_pdx](https://www.instagram.com/scrumptiousbaby_pdx)
-- 👾 [moses-a.com](https://moses-a.com)
+- 📍 PHX
+- 💻 Full stack developer
+- 👾 [switchcasestudio.com](https://switchcasestudio.com)
 - 👯 I’m always looking to collaborate
-- 📫 [moshikoatia@gmail.com](mailto:moshikoatia@gmail.com) hit me up!
-
-<!--
-**Object-ions/Object-ions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 [hello@switchcasestudio.com](mailto:hello@switchcasestudio.com) hit me up!
