@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📍 PHX
+- 📍 Portland, OR
 - 💻 Full stack developer
 - 👾 [switchcasestudio.com](https://switchcasestudio.com)
 - 👯 I’m always looking to collaborate
