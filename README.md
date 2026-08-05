@@ -1,4 +1,4 @@
-### Moses Poston
+### Moses Atia Poston
 
 Portland, OR. I design and build the whole thing, front end, back end, and the boring pipes in between.
 
